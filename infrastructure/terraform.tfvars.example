@@ -1,0 +1,5 @@
+expected_account_id = "REPLACE_WITH_PERSONAL_ACCOUNT_ID"
+owner = "REPLACE_WITH_VALID_OWNER_EMAIL"
+app_owner = "REPLACE_WITH_VALID_APP_OWNER_EMAIL"
+# Set true only after verifying the route table is safe to change.
+approve_shared_route_change = false
